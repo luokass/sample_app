@@ -5,24 +5,10 @@ class StaticPagesController < ApplicationController
   def help
   end
 
-  def create
+  def about
   end
 
-  def app/controllers/static_pages_controller.rb
+  def contact
   end
 
-  def route
-  end
-
-  def get
-  end
-
-  def static_pages/home
-  end
-
-  def get
-  end
-
-  def static_pages/help
-  end
 end
